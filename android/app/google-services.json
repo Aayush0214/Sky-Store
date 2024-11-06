@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "938143383843",
+    "project_id": "skystore-7dbc9",
+    "storage_bucket": "skystore-7dbc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938143383843:android:636600bfd32f521a714c96",
+        "android_client_info": {
+          "package_name": "com.example.sky_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938143383843-lv9isbl1u38vujumolgs1ivv643qoumh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sky_store",
+            "certificate_hash": "2259da6502f083102582616bb6325833c0cc5d78"
+          }
+        },
+        {
+          "client_id": "938143383843-s9j47j0dnd5r34j1c7409pbkpe892c5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sky_store",
+            "certificate_hash": "95708c4502862558f083f930b9b50ccf6f3bfc98"
+          }
+        },
+        {
+          "client_id": "938143383843-pj3v9qesa57fa7samju7leqel31n23lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVY1f9KwIly8198th_kzcPJXnabVf5nSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938143383843-pj3v9qesa57fa7samju7leqel31n23lf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938143383843-33cpj5f9etc8sr9dp1udu3pt922ui8gn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skyStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#000000"
+  fullscreen: true
+  android_gravity: center
+  ios_content_mode: center
+  image: assets/icons/launcher_icons/sky_store_icon.png
+  image_dark: assets/icons/launcher_icons/sky_store_icon.png
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#000000"
+    fullscreen: true
+    android_gravity: center
+    ios_content_mode: center
+    image: assets/icons/launcher_icons/sky_store_icon.png
+    image_dark: assets/icons/launcher_icons/sky_store_icon.png
+
+  web: false
