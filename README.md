@@ -12,3 +12,4 @@ purchasing and order management simple and efficient for users.
 **Wishlist:** Users can save favorite products for future reference.
 **Cart Screen:** Real-time billing, adjustable quantities, and customizable checkout.
 **Order Detail Screen:** Complete with order status tracking and detailed charges.
+
