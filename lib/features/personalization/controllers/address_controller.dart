@@ -140,7 +140,8 @@ class AddressController extends GetxController {
       resetFormFields();
 
       // Redirect
-      Navigator.of(Get.context!).pop();
+      // Navigator.of(Get.context!).pop();
+      Navigator.pop(Get.context!);
     } catch (e) {
       // Remove Loader
       SkyFullScreenLoader.stopLoading();
