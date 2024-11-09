@@ -13,3 +13,13 @@ purchasing and order management simple and efficient for users.
 **Cart Screen:** Real-time billing, adjustable quantities, and customizable checkout.
 **Order Detail Screen:** Complete with order status tracking and detailed charges.
 
+**Screenshots:-**
+
+
+![1](https://github.com/user-attachments/assets/d61d88e8-783d-492d-8629-c9c901a27b94)
+
+![2](https://github.com/user-attachments/assets/2a8f6dad-4799-4bd6-8c0d-0d3443a98455)
+
+![3](https://github.com/user-attachments/assets/f540e1c5-a048-4628-9391-59eae1cb87a8)
+
+
