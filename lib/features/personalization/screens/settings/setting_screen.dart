@@ -97,12 +97,12 @@ class SettingScreen extends StatelessWidget {
                   const SkySectionHeading(
                       title: "App Settings", showActionButton: false),
                   const SizedBox(height: SkySizes.spaceBtwItems),
-                  SkySettingsMenuTile(
-                    icon: Iconsax.document_upload,
-                    title: 'Load Data',
-                    subTitle: "Upload Data to your Cloud Firebase",
-                    onTap: () => Get.to(() => const LoadAllData()),
-                  ),
+                  // SkySettingsMenuTile(
+                  //   icon: Iconsax.document_upload,
+                  //   title: 'Load Data',
+                  //   subTitle: "Upload Data to your Cloud Firebase",
+                  //   onTap: () => Get.to(() => const LoadAllData()),
+                  // ),
                   SkySettingsMenuTile(
                       icon: Iconsax.location,
                       title: "Location",
